@@ -293,28 +293,6 @@ with torch.no_grad():
 
 ---
 
-## 📈 Development Roadmap
-
-### Immediate (1-2 weeks)
-- [ ] INT8 quantization pipeline
-- [ ] TensorRT optimization
-- [ ] Uncertainty estimation
-- [ ] Memory profiling
-
-### Short-term (1 month)  
-- [ ] FPGA deployment (Xilinx)
-- [ ] Batch processing optimization
-- [ ] Model compression techniques
-- [ ] Multi-temporal analysis
-
-### Long-term (3+ months)
-- [ ] Neural architecture search
-- [ ] Knowledge distillation
-- [ ] Incremental learning
-- [ ] Real-time satellite integration
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions! Please see our contributing guidelines:
